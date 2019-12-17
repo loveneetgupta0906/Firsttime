@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8066" started-at="2018-09-22T05:38:36Z" finished-at="2018-09-22T05:38:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8066" started-at="2018-09-22T05:38:36Z" finished-at="2018-09-22T05:38:44Z">
+      <class name="newbatch_pkg14_chrome_options.Example1">
+        <test-method status="PASS" signature="drivermethods1()[pri:0, instance:newbatch_pkg14_chrome_options.Example1@1753acfe]" name="drivermethods1" duration-ms="8050" started-at="2018-09-22T05:38:36Z" finished-at="2018-09-22T05:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drivermethods1 -->
+      </class> <!-- newbatch_pkg14_chrome_options.Example1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
