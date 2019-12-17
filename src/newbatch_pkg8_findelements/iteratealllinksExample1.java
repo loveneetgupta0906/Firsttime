@@ -40,6 +40,7 @@ public class iteratealllinksExample1 {
 	alllinks=driver.findElements(By.xpath("//*[@id='destinations_list1']/ul/li/a/div/div/div"));
 	}
 	
+	System.out.println("modify");
 	
 	driver.quit();
 	}
